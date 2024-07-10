@@ -80,3 +80,10 @@
     width: 60px;
     height: 60px;
 }
+
+.container{
+    color: rgb(93, 126, 141);
+    font-family: cursive;
+    text-align: center;
+    text-decoration: underline;
+}
