@@ -1,0 +1,82 @@
+.gama{
+    color: rgb(71, 84, 100);
+    font-family: "Anton SC", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+    text-align: center;
+}
+
+.logo{
+    width: 85%;
+    height: 45px;
+}
+
+.img{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#barra img {
+    width: 100%;
+    height: auto;
+}
+.header-text {
+    color: rgb(68, 62, 83);
+    font-family: fantasy;
+    text-align: center;
+}
+.carousel-item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+}
+
+.carousel-caption h5 {
+    background: rgba(0, 0, 0, 0.5);
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.principal {
+    padding: 20px 0;
+}
+.caja img {
+    width: 100%;
+    height: auto;
+}
+
+.caja p {
+    margin-bottom: 15px;
+}
+.caja-1, .caja-2, .caja-3, .caja-4, .caja-5 {
+    margin-bottom: 20px;
+}
+
+#barra-dos img {
+    max-width: 100%;
+    height: auto;
+}
+.info img {
+    width: 40px;
+    height: 40px;
+}
+.info b {
+    font-family: sans-serif;
+}
+.info h6 {
+    color: rgb(165, 165, 165);
+    font-family: serif;
+}
+.whatsapp-icon {
+    position: fixed;
+    bottom: 30px;
+    right: 20px;
+    z-index: 1000;
+}
+.whatsapp-icon img {
+    width: 60px;
+    height: 60px;
+}
