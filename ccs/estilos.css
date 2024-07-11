@@ -98,3 +98,10 @@
     font-family: cursive;
     text-align: center;
 }
+
+.video{
+    width: 800px; 
+    height: 280px; 
+    margin: 0 auto; 
+    display: block;
+}
