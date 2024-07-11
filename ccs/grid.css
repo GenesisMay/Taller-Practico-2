@@ -1,0 +1,16 @@
+.secundario {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    column-gap: 10px;
+    row-gap: 10px;
+    height: auto;
+}
+.caja-6 {
+    grid-area: 1/1/2/6; 
+}
+.caja-7 {
+    grid-area: 3/4/2/6; 
+}
+.caja-8 {
+    grid-area: 2/1/2/4; 
+}
