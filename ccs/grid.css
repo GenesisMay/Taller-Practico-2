@@ -1,3 +1,27 @@
+.principal{
+    background-color: rgb(216, 252, 253);
+    padding: 10px;
+    overflow: hidden;
+    word-wrap: break-word;
+    box-sizing: border-box;
+}
+
+.caja-2{
+    background-color: rgb(180, 179, 238);
+}
+
+.caja-3{
+    background-color: rgb(225, 238, 179);
+}
+
+.caja-4{
+    background-color: rgb(238, 179, 208);
+}
+
+.caja-5{
+    background-color: rgb(238, 196, 179);
+}
+
 .secundario {
     display: grid;
     grid-template-columns: repeat(5, 1fr);
